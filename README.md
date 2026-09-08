@@ -54,5 +54,3 @@ import mitdeeplearning as mdl
 All original lab content, starter code, and materials are © MIT Introduction to Deep Learning, created by the 6.S191 course staff, and are licensed under the terms in the [original repository](https://github.com/MITDeepLearning/introtodeeplearning/blob/master/LICENSE.md). This repo only contains my own completed versions of the exercises, for personal learning and reference.
 
 > © MIT Introduction to Deep Learning — <http://introtodeeplearning.com>
-
-If you're new to the course, start at the [official repo](https://github.com/MITDeepLearning/introtodeeplearning) and [course website](http://introtodeeplearning.com).

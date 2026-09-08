@@ -2,7 +2,7 @@
 
 My completed solutions to the software labs from **[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)**, based on the official course repository: [MITDeepLearning/introtodeeplearning](https://github.com/MITDeepLearning/introtodeeplearning).
 
-> ⚠️ These are my personal, worked-through versions of the labs (all `#TODO` cells filled in), kept here for my own reference and portfolio. If you're taking the course, I'd encourage you to attempt the labs yourself before checking solutions here.
+> ⚠️ These are my personal, worked-through versions of the labs (all `#TODO` cells filled in), kept here for my own reference and portfolio.
 
 ## About the course
 
